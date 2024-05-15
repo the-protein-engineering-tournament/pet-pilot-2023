@@ -1,0 +1,13 @@
+dataset,team,Average Spearman,F1 Score (Weighted),Accuracy
+Alpha-Amylase,arnold-lab,-0.2610518561486809,,
+Alpha-Amylase,marks-lab,0.4012841603992079,,
+Alpha-Amylase,nimbus,0.12659778580359182,,
+Aminotransferase,SergiR1996,0.12580403413532967,,
+Aminotransferase,arnold-lab,-0.28301630271576156,,
+Aminotransferase,marks-lab,0.16265139940140083,,
+Aminotransferase,nimbus,0.01933740774607286,,
+Xylanase,SergiR1996,,0.2754427525187166,0.20398009950248755
+Xylanase,arnold-lab,,0.1869245767402045,0.19900497512437812
+Xylanase,marks-lab,,0.6410552560030733,0.5671641791044776
+Xylanase,nimbus,,0.5606503697664307,0.4975124378109453
+Xylanase,tum-rostlab,,0.19790393098048367,0.17412935323383086
