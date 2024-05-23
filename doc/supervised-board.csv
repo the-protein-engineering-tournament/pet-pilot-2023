@@ -1,12 +1,12 @@
 dataset,team,Average Spearman
-Alkaline phosphatase PafA,anonymous,-0.010948770171173433
+Alkaline phosphatase PafA,exazyme,-0.010948770171173433
 Alkaline phosphatase PafA,nimbus,0.11358927227853287
 Alkaline phosphatase PafA,tum-rostlab,0.6131356469278096
-Alpha-Amylase,anonymous,0.7394582718945496
+Alpha-Amylase,exazyme,0.7394582718945496
 Alpha-Amylase,nimbus,0.8225288494006792
 Alpha-Amylase,tum-rostlab,0.7382974421140339
-Imine reductase,anonymous,0.6969357927609479
+Imine reductase,exazyme,0.6969357927609479
 Imine reductase,nimbus,0.2618384452418531
 Imine reductase,proteng4all,-0.17446895806832
-beta-glucosidase B,anonymous,0.07820324487050116
+beta-glucosidase B,exazyme,0.07820324487050116
 beta-glucosidase B,nimbus,-0.299679723002917
