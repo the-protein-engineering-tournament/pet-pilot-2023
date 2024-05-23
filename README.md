@@ -8,7 +8,7 @@
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
-This document serves as a guide to navigate the repository of data and resources compiled for the pilot Protein Engineering Tournament. Our aim is to build a transparent platform for fostering collaboration, evaluating progress, and establishing benchmarks in the field of protein engineering. The pilot tournament is structured into three  tracks: Zero-Shot in silico, Supervised in silico, and in vitro, each designed to explore different facets of protein engineering. Please note that all of the provided data, participant submissions, and analysis scripts can be found on our [GitHub repository](https://github.com/the-protein-engineering-tournament/pet-pilot).
+This document serves as a guide to navigate the repository of data and resources compiled for the pilot Protein Engineering Tournament. Our aim is to build a transparent platform for fostering collaboration, evaluating progress, and establishing benchmarks in the field of protein engineering. The pilot tournament is structured into three  tracks: Zero-Shot in silico, Supervised in silico, and in vitro, each designed to explore different facets of protein engineering. Please note that all of the provided data, participant submissions, and analysis scripts can be found on our [GitHub repository](https://github.com/the-protein-engineering-tournament/pet-pilot-2023).
 
 ## Repository Structure Overview
 
