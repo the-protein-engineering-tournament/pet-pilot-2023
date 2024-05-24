@@ -1,7 +1,7 @@
 ,Category,Anonymous,Exazyme,Marks Lab,MediumBio,Nimbus,SergiR1996,TUM Rostlab
 count,Cloned and Screened,189.0,173.0,54.0,30.0,198.0,190.0,199.0
-count,Low Expr / Low Stab,11.0,13.0,8.0,3.0,113.0,16.0,66.0
-count,Low Expression,3.0,4.0,3.0,0.0,7.0,5.0,6.0
-count,Low Stability,124.0,83.0,18.0,0.0,69.0,129.0,51.0
-count,Pass,47.0,72.0,18.0,20.0,5.0,40.0,17.0
+count,Low Expr / Low Stab,13.0,9.0,9.0,3.0,112.0,1.0,49.0
+count,Low Expression,1.0,8.0,2.0,0.0,8.0,20.0,23.0
+count,Low Stability,121.0,78.0,27.0,0.0,70.0,5.0,35.0
+count,Pass,50.0,77.0,9.0,20.0,4.0,164.0,33.0
 count,Submitted,200.0,211.0,157.0,30.0,200.0,200.0,200.0
