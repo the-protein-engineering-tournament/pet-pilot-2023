@@ -12,6 +12,18 @@ This document serves as a guide to navigate the repository of data and resources
 
 ## Repository Structure Overview
 
+#### Doc
+
+- Compiled Abstracts PDF: A collection of abstracts authored by
+  participants, detailing the methodologies applied in their
+  research. This document offers insights into the thought processes
+  and strategies employed across the tournament. Teams were invited,
+  but not required, to submit an abstract on the methods they wished
+  to disclose.
+- A Figures/Tables Folder: containing the .png/.csv graphics for the
+  results from the in silico and in vitro rounds, including individual
+  event results and leader-boards.
+
 ### Tracks
 - In Silico Zero-Shot: Focuses on predicting protein function without
   provided training data.
@@ -66,18 +78,7 @@ Each track is contained within its own dedicated folder. Within each track are a
     protein sequences submitted by each team.
   - The measurement data and supporting sequence annotation from the
     cloning and screening team.
-  
-#### Doc
 
-- Compiled Abstracts PDF: A collection of abstracts authored by
-  participants, detailing the methodologies applied in their
-  research. This document offers insights into the thought processes
-  and strategies employed across the tournament. Teams were invited,
-  but not required, to submit an abstract on the methods they wished
-  to disclose.
-- A Figures/Tables Folder: containing the .png/.csv graphics for the
-  results from the in silico and in vitro rounds, including individual
-  event results and leader-boards.
 
 ## Environment for analysis
 
